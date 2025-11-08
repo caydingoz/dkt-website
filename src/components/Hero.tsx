@@ -29,14 +29,14 @@ export function Hero() {
                 <Calendar className="mr-2 w-4 h-4" />
                 Randevu Al
               </Button>
-              <Button size="lg" variant="outline" onClick={() => scrollToSection("hakkimda")}>
+              <Button size="lg" variant="outline" onClick={() => scrollToSection("about")}>
                 <MessageCircle className="mr-2 w-4 h-4" />
                 Daha Fazla Bilgi
               </Button>
             </div>
             <div className="mt-12 grid grid-cols-3 gap-6">
               <div>
-                <div className="text-3xl text-blue-600 mb-1">4+</div>
+                <div className="text-3xl text-blue-600 mb-1">3+</div>
                 <p className="text-sm text-muted-foreground">Yıl Deneyim</p>
               </div>
               <div>
@@ -45,7 +45,7 @@ export function Hero() {
               </div>
             </div>
           </div>
-          <div className="relative">
+          <div className="relative p-6">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <ImageWithFallback
                 src="https://images.unsplash.com/photo-1596066190600-3af9aadaaea1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1469&utm_source=figma&utm_medium=referral"

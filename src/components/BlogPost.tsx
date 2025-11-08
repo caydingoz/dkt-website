@@ -99,7 +99,7 @@ export function BlogPost({ post, onBack, onNavigate }: BlogPostProps) {
               <div>
                 <h3 className="text-xl mb-2">Dkt. İrem Doğan</h3>
                 <p className="text-sm text-muted-foreground mb-4">
-                  Dil ve Konuşma Terapisti | 4+ Yıl Deneyim
+                  Dil ve Konuşma Terapisti | 3+ Yıl Deneyim
                 </p>
                 <p className="text-sm text-muted-foreground">
                   Medipol Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra, 

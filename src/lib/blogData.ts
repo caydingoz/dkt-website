@@ -39,7 +39,7 @@ export const blogPosts = [
     category: "Aktiviteler",
     date: "1 Şubat 2024",
     readTime: "6 dk",
-    image: "https://images.unsplash.com/photo-1464029902023-f42eba355bde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGVyYXBpc3QlMjBvZmZpY2V8ZW58MXx8fHwxNzYyNTQ2NzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    image: "https://images.unsplash.com/photo-1758691462269-3a4272983d9d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1932&utm_source=figma&utm_medium=referral",
     content: [
       "Çocuğunuzun dil gelişimini desteklemek için günlük hayatınızda yapabileceğiniz birçok basit ama etkili aktivite vardır. En önemlisi, bu aktiviteleri oyun havasında ve çocuğunuzun ilgisini çekecek şekilde yapmanızdır. Zorlamadan, eğlenerek öğrenmek her zaman en etkili yöntemdir.",
       "Günlük rutinler harika öğrenme fırsatlarıdır. Sabah hazırlanırken, yemek hazırlarken, banyo yaparken veya alışveriş yaparken sürekli konuşun. 'Şimdi ne yapıyoruz?', 'Bunun rengi ne?', 'Kaç tane elma alalım?' gibi sorular sorun. Çocuğunuz henüz konuşamıyor olsa bile, sizin konuşmanız dil gelişimini destekler.",

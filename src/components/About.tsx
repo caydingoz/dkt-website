@@ -1,10 +1,10 @@
-import { Award, Heart, Users, TrendingUp } from "lucide-react";
+import { Award, Heart, Users, TrendingUp, HandHelping } from "lucide-react";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 export function About() {
   return (
     <section id="hakkimda" className="py-20 bg-white">
-      <div className="container mx-auto px-4">
+      <div className="container mx-auto px-6">
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="relative">
             <div className="aspect-[4/5] rounded-2xl overflow-hidden">
@@ -14,8 +14,8 @@ export function About() {
                 className="w-full h-full object-cover"
               />
             </div>
-            <div className="absolute -bottom-8 -right-8 bg-gradient-to-br from-blue-500 to-purple-600 text-white p-8 rounded-xl shadow-xl">
-              <div className="text-4xl mb-2">4+</div>
+            <div className="absolute -bottom-8 -right-8 bg-gradient-to-br from-blue-500 to-purple-600 text-white p-6 rounded-xl shadow-xl mr-2">
+              <div className="text-4xl mb-2">3+</div>
               <p className="text-sm">Yıllık Deneyim</p>
             </div>
           </div>
@@ -28,7 +28,7 @@ export function About() {
               Çocukların Gelişimine Tutkuyla Bağlı Bir Terapist
             </h2>
             <p className="text-muted-foreground mb-6">
-              Merhaba, ben Dkt. İrem Doğan. 4 yıldır dil ve konuşma terapisti olarak çocukların iletişim becerilerini geliştirmelerine yardımcı oluyorum. Hacettepe Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra, hem yurt içinde hem de yurt dışında çeşitli eğitimler aldım.
+              Merhaba, ben Dkt. İrem Doğan. 3 yıldır dil ve konuşma terapisti olarak çocukların iletişim becerilerini geliştirmelerine yardımcı oluyorum. Medipol Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra da çeşitli eğitimler aldım.
             </p>
             <p className="text-muted-foreground mb-8">
               Her çocuğun benzersiz olduğuna ve kendi hızında geliştiğine inanıyorum. Bu nedenle her çocuk için özel olarak hazırlanmış bireysel terapi programları uyguluyorum. Aileleri de bu sürecin bir parçası olarak görüyor ve onları da aktif bir şekilde dahil ediyorum.
@@ -40,8 +40,17 @@ export function About() {
                   <Award className="w-6 h-6 text-blue-600" />
                 </div>
                 <div>
-                  <h3 className="mb-1">Sertifikalı Uzman</h3>
-                  <p className="text-sm text-muted-foreground">Uluslararası geçerliliği olan sertifikalar</p>
+                  <h3 className="mb-1">Floortime Sertifikalı</h3>
+                  <p className="text-sm text-muted-foreground">DIR Floortime 201 Terapisti</p>
+                </div>
+              </div>
+              <div className="flex items-start gap-3">
+                <div className="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center flex-shrink-0">
+                  <HandHelping className="w-6 h-6 text-orange-600" />
+                </div>
+                <div>
+                  <h3 className="mb-1">Prompt Klinisyeni</h3>
+                  <p className="text-sm text-muted-foreground">Prompt teknikleri ile terapi</p>
                 </div>
               </div>
               <div className="flex items-start gap-3">
@@ -60,15 +69,6 @@ export function About() {
                 <div>
                   <h3 className="mb-1">Aile Odaklı</h3>
                   <p className="text-sm text-muted-foreground">Ailelerle işbirliği içinde çalışma</p>
-                </div>
-              </div>
-              <div className="flex items-start gap-3">
-                <div className="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center flex-shrink-0">
-                  <TrendingUp className="w-6 h-6 text-orange-600" />
-                </div>
-                <div>
-                  <h3 className="mb-1">Kanıta Dayalı</h3>
-                  <p className="text-sm text-muted-foreground">Bilimsel yöntemlerle terapi</p>
                 </div>
               </div>
             </div>
