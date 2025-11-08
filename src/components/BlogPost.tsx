@@ -102,7 +102,7 @@ export function BlogPost({ post, onBack, onNavigate }: BlogPostProps) {
                   Dil ve Konuşma Terapisti | 4+ Yıl Deneyim
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Hacettepe Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra, 
+                  Medipol Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra, 
                   4 yıldır çocukların dil ve konuşma gelişiminde ailelerle birlikte çalışıyorum. 
                   Her çocuğun benzersiz olduğuna ve kendi potansiyelini ortaya çıkarabileceğine inanıyorum.
                 </p>
@@ -114,7 +114,7 @@ export function BlogPost({ post, onBack, onNavigate }: BlogPostProps) {
           <div className="mt-12 bg-gradient-to-r from-blue-500 to-purple-600 text-white rounded-2xl p-8 text-center">
             <h3 className="text-2xl mb-4">Çocuğunuz için destek mi arıyorsunuz?</h3>
             <p className="text-blue-50 mb-6 max-w-2xl mx-auto">
-              Ücretsiz değerlendirme görüşmesi için hemen randevu alın. Birlikte çocuğunuzun gelişimini destekleyelim.
+              Değerlendirme görüşmesi için hemen randevu alın. Birlikte çocuğunuzun gelişimini destekleyelim.
             </p>
             <Button 
               size="lg" 

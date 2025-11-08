@@ -54,6 +54,10 @@
       outDir: 'build',
     },
     server: {
+      allowedHosts: [
+        'urticant-unexpired-leanne.ngrok-free.dev'
+      ],
+      host: true,
       port: 3000,
       open: true,
     },

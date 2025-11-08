@@ -15,7 +15,7 @@ export function Footer() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-                İD
+                DKT
               </div>
               <div>
                 <h3 className="text-lg">Dkt. İrem Doğan</h3>
@@ -66,35 +66,23 @@ export function Footer() {
             <h4 className="mb-4">Bizi Takip Edin</h4>
             <div className="flex gap-3">
               <a
-                href="#"
-                className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-600 transition-colors"
-              >
-                <Facebook className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
+                href="https://www.instagram.com/dkt.iremdogan"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-pink-600 transition-colors"
               >
                 <Instagram className="w-5 h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/irem-do%C4%9Fan-8960a122b"
                 className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-blue-500 transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 bg-gray-800 rounded-lg flex items-center justify-center hover:bg-sky-500 transition-colors"
-              >
-                <Twitter className="w-5 h-5" />
               </a>
             </div>
           </div>
         </div>
 
         <div className="border-t border-gray-800 pt-8 text-center text-sm text-gray-400">
-          <p>© 2024 Dr. Ayşe Kaya - Dil ve Konuşma Terapisti. Tüm hakları saklıdır.</p>
+          <p>© 2025 Dkt. İrem Doğan - Dil ve Konuşma Terapisti. Tüm hakları saklıdır.</p>
         </div>
       </div>
     </footer>

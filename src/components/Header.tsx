@@ -30,7 +30,7 @@ export function Header({ onNavigate }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center text-white">
-              İD
+              DKT
             </div>
             <div>
               <h1 className="text-lg">Dkt. İrem Doğan</h1>

@@ -86,8 +86,9 @@ export function Contact() {
                   <div>
                     <h3 className="mb-2">Adres</h3>
                     <p className="text-sm text-muted-foreground">
-                      Çankaya Mahallesi, Atatürk Bulvarı No: 123<br />
-                      Çankaya / Ankara
+                      Şenlikköy Mah. Avcılar Sk. <br />
+                      Özel Florya Gelişim Akademisi<br />
+                      Bakırköy / İstanbul
                     </p>
                   </div>
                 </div>
@@ -103,7 +104,7 @@ export function Contact() {
                   <div>
                     <h3 className="mb-2">Telefon</h3>
                     <p className="text-sm text-muted-foreground">
-                      +90 555 123 45 67
+                      +90 5** *** ** **
                     </p>
                   </div>
                 </div>
@@ -119,7 +120,7 @@ export function Contact() {
                   <div>
                     <h3 className="mb-2">E-posta</h3>
                     <p className="text-sm text-muted-foreground">
-                      info@aysekaya.com
+                      dktiremdogan@gmail.com
                     </p>
                   </div>
                 </div>
@@ -135,9 +136,8 @@ export function Contact() {
                   <div>
                     <h3 className="mb-2">Çalışma Saatleri</h3>
                     <p className="text-sm text-muted-foreground">
-                      Pazartesi - Cuma: 09:00 - 18:00<br />
-                      Cumartesi: 09:00 - 14:00<br />
-                      Pazar: Kapalı
+                      Cuma: 10:00 - 18:00<br />
+                      Pazar: 10:00 - 18:00
                     </p>
                   </div>
                 </div>

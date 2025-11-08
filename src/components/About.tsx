@@ -10,12 +10,12 @@ export function About() {
             <div className="aspect-[4/5] rounded-2xl overflow-hidden">
               <ImageWithFallback
                 src="https://images.unsplash.com/photo-1649589244330-09ca58e4fa64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjB3b21hbiUyMHBvcnRyYWl0fGVufDF8fHx8MTc2MjQ4Mzg5NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Dr. Ayşe Kaya"
+                alt="Dkt. İrem Doğan"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="absolute -bottom-8 -right-8 bg-gradient-to-br from-blue-500 to-purple-600 text-white p-8 rounded-xl shadow-xl">
-              <div className="text-4xl mb-2">4</div>
+              <div className="text-4xl mb-2">4+</div>
               <p className="text-sm">Yıllık Deneyim</p>
             </div>
           </div>

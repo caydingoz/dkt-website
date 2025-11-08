@@ -22,7 +22,7 @@ export function Hero() {
               Her Çocuğun Kendini İfade Etme Hakkı Var
             </h1>
             <p className="text-lg text-muted-foreground mb-8">
-              4 yıllık deneyimle çocukların dil ve konuşma gelişiminde yanınızdayım. Bireysel terapi programlarıyla her çocuğun potansiyelini ortaya çıkarıyoruz.
+              Çocuğunuzun kendini özgürce ifade edebilmesi için sevgi dolu bir terapi ortamı sunuyorum. Her küçük adım, büyük bir gelişimin başlangıcıdır.
             </p>
             <div className="flex flex-wrap gap-4">
               <Button size="lg" onClick={() => scrollToSection("iletisim")}>
@@ -40,19 +40,15 @@ export function Hero() {
                 <p className="text-sm text-muted-foreground">Yıl Deneyim</p>
               </div>
               <div>
-                <div className="text-3xl text-blue-600 mb-1">200+</div>
+                <div className="text-3xl text-blue-600 mb-1">50+</div>
                 <p className="text-sm text-muted-foreground">Mutlu Aile</p>
-              </div>
-              <div>
-                <div className="text-3xl text-blue-600 mb-1">98%</div>
-                <p className="text-sm text-muted-foreground">Başarı Oranı</p>
               </div>
             </div>
           </div>
           <div className="relative">
             <div className="aspect-square rounded-2xl overflow-hidden shadow-2xl">
               <ImageWithFallback
-                src="https://images.unsplash.com/photo-1759592702596-626aca3a99cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzcGVlY2glMjB0aGVyYXB5JTIwY2hpbGRyZW58ZW58MXx8fHwxNzYyNTQ2NzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://images.unsplash.com/photo-1596066190600-3af9aadaaea1?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1469&utm_source=figma&utm_medium=referral"
                 alt="Dil ve konuşma terapisi seansı"
                 className="w-full h-full object-cover"
               />
@@ -61,7 +57,7 @@ export function Hero() {
               <p className="text-sm italic">
                 "Oğlum artık çok daha rahat konuşuyor. Bu değişimi görmek bizim için muhteşem!"
               </p>
-              <p className="text-xs text-muted-foreground mt-2">- Elif Yılmaz, Anne</p>
+              <p className="text-xs text-muted-foreground mt-2">- E*** Y****, Anne</p>
             </div>
           </div>
         </div>

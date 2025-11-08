@@ -4,7 +4,7 @@ export const blogPosts = [
     title: "Çocuğunuz Geç mi Konuşuyor? İşte Yapmanız Gerekenler",
     excerpt: "Çocukların dil gelişimi farklı hızlarda ilerler. Ancak bazı durumlarda profesyonel destek gerekebilir. Bu yazıda erken müdahale önemini anlatıyoruz.",
     category: "Dil Gelişimi",
-    date: "15 Ekim 2024",
+    date: "15 Ekim 2025",
     readTime: "5 dk",
     image: "https://images.unsplash.com/photo-1596066190600-3af9aadaaea1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjaGlsZCUyMGxlYXJuaW5nfGVufDF8fHx8MTc2MjU0NjcxOXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     content: [
@@ -37,7 +37,7 @@ export const blogPosts = [
     title: "Evde Yapabileceğiniz Dil Geliştirici Aktiviteler",
     excerpt: "Günlük rutinlerinizi çocuğunuzun dil gelişimini destekleyen fırsatlara dönüştürün. Eğlenceli ve etkili aktivite önerileri.",
     category: "Aktiviteler",
-    date: "1 Ekim 2024",
+    date: "1 Şubat 2024",
     readTime: "6 dk",
     image: "https://images.unsplash.com/photo-1464029902023-f42eba355bde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0aGVyYXBpc3QlMjBvZmZpY2V8ZW58MXx8fHwxNzYyNTQ2NzE5fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     content: [
