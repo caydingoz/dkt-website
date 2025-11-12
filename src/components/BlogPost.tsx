@@ -103,7 +103,7 @@ export function BlogPost({ post, onBack, onNavigate }: BlogPostProps) {
                 </p>
                 <p className="text-sm text-muted-foreground">
                   Medipol Üniversitesi Dil ve Konuşma Terapisi bölümünden mezun olduktan sonra, 
-                  4 yıldır çocukların dil ve konuşma gelişiminde ailelerle birlikte çalışıyorum. 
+                  3 yıldır çocukların dil ve konuşma gelişiminde ailelerle birlikte çalışıyorum. 
                   Her çocuğun benzersiz olduğuna ve kendi potansiyelini ortaya çıkarabileceğine inanıyorum.
                 </p>
               </div>

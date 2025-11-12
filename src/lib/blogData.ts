@@ -1,6 +1,7 @@
 export const blogPosts = [
   {
     id: 1,
+    slug: "cocugunuz-gec-mi-konusuyor-yapmaniz-gerekenler",
     title: "Çocuğunuz Geç mi Konuşuyor? İşte Yapmanız Gerekenler",
     excerpt: "Çocukların dil gelişimi farklı hızlarda ilerler. Ancak bazı durumlarda profesyonel destek gerekebilir. Bu yazıda erken müdahale önemini anlatıyoruz.",
     category: "Dil Gelişimi",
@@ -17,6 +18,7 @@ export const blogPosts = [
   },
   {
     id: 2,
+    slug: "kekemelik-aileler-icin-kapsamli-rehber",
     title: "Kekemelik: Aileler İçin Kapsamlı Rehber",
     excerpt: "Kekemelik yaşayan çocukların aileleri için pratik öneriler ve yapılması gerekenler. Sabır ve doğru yaklaşımın önemi.",
     category: "Kekemelik",
@@ -34,6 +36,7 @@ export const blogPosts = [
   },
   {
     id: 3,
+    slug: "evde-yapilabilecek-dil-gelistirici-aktiviteler",
     title: "Evde Yapabileceğiniz Dil Geliştirici Aktiviteler",
     excerpt: "Günlük rutinlerinizi çocuğunuzun dil gelişimini destekleyen fırsatlara dönüştürün. Eğlenceli ve etkili aktivite önerileri.",
     category: "Aktiviteler",

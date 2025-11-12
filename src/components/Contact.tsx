@@ -42,7 +42,7 @@ export function Contact() {
                       <label htmlFor="phone" className="block text-sm mb-2">
                         Telefon *
                       </label>
-                      <Input id="phone" type="tel" required placeholder="0555 123 45 67" />
+                      <Input id="phone" type="tel" required placeholder="05** *** ** **" />
                     </div>
                   </div>
                   <div>

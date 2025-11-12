@@ -29,7 +29,7 @@ export function Hero() {
                 <Calendar className="mr-2 w-4 h-4" />
                 Randevu Al
               </Button>
-              <Button size="lg" variant="outline" onClick={() => scrollToSection("about")}>
+              <Button size="lg" variant="outline" onClick={() => scrollToSection("hakkimda")}>
                 <MessageCircle className="mr-2 w-4 h-4" />
                 Daha Fazla Bilgi
               </Button>

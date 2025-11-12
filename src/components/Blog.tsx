@@ -6,7 +6,7 @@ import { ImageWithFallback } from "./figma/ImageWithFallback";
 import { blogPosts } from "../lib/blogData";
 
 interface BlogProps {
-  onPostClick: (postId: number) => void;
+  onPostClick: (slug: string) => void;
 }
 
 export function Blog({ onPostClick }: BlogProps) {
@@ -27,7 +27,7 @@ export function Blog({ onPostClick }: BlogProps) {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           {blogPosts.map((post) => (
-            <Card key={post.id} className="overflow-hidden hover:shadow-lg transition-shadow group cursor-pointer" onClick={() => onPostClick(post.id)}>
+            <Card key={post.id} className="overflow-hidden hover:shadow-lg transition-shadow group cursor-pointer" onClick={() => onPostClick(post.slug)}>
               <div className="aspect-video overflow-hidden">
                 <ImageWithFallback
                   src={post.image}
