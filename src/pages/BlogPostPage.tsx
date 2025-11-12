@@ -46,6 +46,7 @@ export default function BlogPostPage() {
       <Helmet>
         <title>{post.title} | Dkt. İrem Doğan</title>
         <meta name="description" content={post.excerpt} />
+        <meta name="keywords" content={(post as any).keywords?.join(", ") || "dil ve konuşma terapisi, konuşma terapisi, çocuklarda dil gelişimi"} />
         <link rel="canonical" href={`https://dkt-iremdogan.com/blog/${post.slug}`} />
         <meta property="og:type" content="article" />
         <meta property="og:title" content={`${post.title} | Dkt. İrem Doğan`} />
